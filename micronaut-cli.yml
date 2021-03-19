@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: justme.demo
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-jdbc, flyway, gradle, h2, http-client, jdbc-hikari, kotest, kotlin, kotlin-application, logback, management, netty-server, readme, shade, testcontainers, yaml]
